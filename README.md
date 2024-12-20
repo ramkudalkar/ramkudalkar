@@ -5,7 +5,7 @@
 - 📫 How to reach me: ramchandrakudalkar777@gmail.com
 - 🌎 Currently working on my website (desktop view)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy learning new tech trends and sharing my knowledge with others! 
+- ⚡ Fun fact: I enjoy learning new tech trends and sharing my knowledge with others!
 
 <!---
 ramkudalkar/ramkudalkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
