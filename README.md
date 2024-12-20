@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AWS DevOps projects and cloud solutions
 - 📫 How to reach me: ramchandrakudalkar777@gmail.com
 - 🌎 Currently working on my website (desktop view)
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy learning new tech trends and sharing my knowledge with others! 
 
 <!---
