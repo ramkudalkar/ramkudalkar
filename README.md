@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramchandra Kudalkar
-- 👀 I’m interested in DevOps, AWS cloud computing, and automation 
+- 👀 I’m interested in DevOps, AWS cloud computing, and automation
 - 🌱 I’m currently learning advanced DevOps tools and practices
 - 💞️ I’m looking to collaborate on AWS DevOps projects and cloud solutions
 - 📫 How to reach me: ramchandrakudalkar777@gmail.com
