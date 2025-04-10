@@ -43,7 +43,6 @@
 
 ## 📫 Let's Connect!
 - 📧 Email: [ramchandrakudalkar777@gmail.com](mailto:ramchandrakudalkar777@gmail.com)
-- 💼 LinkedIn: [Ramchandra Kudalkar](https://linkedin.com/ramchandra-kudalkar)
 - 🌐 Website: [Coming Soon!]
 
 ---
