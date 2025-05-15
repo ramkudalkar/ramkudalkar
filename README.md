@@ -1,6 +1,6 @@
 # Hi there, I'm Ramchandra Kudalkar! 👋
 
-🌟 **AWS Certified | DevOps Enthusiast | Automation Advocate**
+🌟 **AWS Certified | DevOps Enthusiast **
 
 ---
 
@@ -42,7 +42,7 @@
 ---
 
 ## 📫 Let's Connect!
-- 📧 Email: [ramchandrakudalkar777@gmail.com](mailto:ramchandrakudalkar777@gmail.com)
+- 📧 Email: [ramchandrakudalkar777@gmail.com](mailto:ramchandrakudalkar27@gmail.com)
 - 🌐 Website: [Coming Soon!] 
 
 ---
