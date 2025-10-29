@@ -42,8 +42,8 @@
 ---
 
 ## 📫 Let's Connect!
-- 📧 Email: [ramchandrakudalkar27@gmail.com](mailto:ramchandrakudalkar27@gmail.com)
-- 🌐 Website: [Coming Soon!] 
+- 📧 Email: [ramchandrakudalkar1@gmail.com](mailto:ramchandrakudalkar1@gmail.com)
+- 🌐 Website: [ramchandrakudalkar.com] 
 
 ---
 
