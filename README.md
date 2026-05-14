@@ -42,7 +42,7 @@
 ---
 
 ## 📫 Let's Connect!
-- 📧 Email: [ramchandrakudalkar1@gmail.com](mailto:ramchandrakudalkar1@gmail.com)
+- 📧 Email: [ramchandrakudalkar1@gmail.com](mailto:ramchandrakudalkar6@gmail.com)
 - 🌐 Website: [ramchandrakudalkar.com] 
 
 ---
